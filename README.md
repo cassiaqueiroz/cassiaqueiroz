@@ -1,21 +1,21 @@
-Olá, eu sou a Cassia Queiroz! 👋
+Olá, aqui é a Cassia Queiroz! 👋🏻
 
-Sou desenvolvedora web freelancer e criadora de sites personalizados usando Bootstrap. Atualmente, estou trabalhando em cinco projetos e já concluí um, todos recebendo elogios contínuos.
+Sou desenvolvedora web freelancer. Meus projetos têm recebido elogios contínuos. Atualmente, concluí dois sites:
 
-Alguns dos meus projetos recentes incluem:
+- [devcassiaqueiroz.com.br](https://devcassiaqueiroz.com.br) - Meu site pessoal
+- [dralarissaborges.com.br](https://dralarissaborges.com.br) - Site da Dra. Larissa Borges, todos recebendo elogios contínuos.
 
-- [devcassiaqueiroz.com.br](https://devcassiaqueiroz.com.br) - Meu portfólio pessoal
-- [dralarissaborges.com.br](https://dralarissaborges.com.br) - Site da Dra. Alarissa Borges
-- [drmarcosfernandes.com.br](https://drmarcosfernandes.com) - Site do Dr. Marcos Fernandes
+Tenho quatro projetos em andamento: 
 
-Tenho experiência em:
+- [drmarcosfernandes.com](https://drmarcosfernandes.com) - Site do Dr. Marcos Fernandes
+- [cassiaqueiroz.github.io/vlaio/](https://cassiaqueiroz.github.io/vlaio/) - Site do artista Victor Laio
+- [cassiaqueiroz.github.io/hatim-jaafar/](https://cassiaqueiroz.github.io/hatim-jaafar/) - Site do artista Hatim Jaafar
+- [cassiaqueiroz.github.io/ed-queiroz/](https://cassiaqueiroz.github.io/ed-queiroz/) - Site do jornalista Ed Queiroz
 
-Criação de sites bonitos e fáceis de usar tanto no computador quanto no celular, utilizando HTML, CSS, JavaScript e Bootstrap
-Utilização de GitHub Actions para automatizar integração e entrega contínuas das minhas alterações de código, garantindo que tudo funcione bem antes de ir ao ar
-Implantação dos sites no GitHub Pages, com domínios personalizados para os clientes
-Personalização de sites de acordo com a demanda do cliente
-Além disso, possuo certificado Salesforce Associate, programo em Apex e tenho experiência com SOQL. Crio designs de alta qualidade usando LWC e Visualforce, além de desenvolver integração de APIs e aplicar Metodologias Ágeis no contexto Salesforce.
+Possuo experiência em:
 
-Estou em transição de carreira e busco adquirir mais experiência em Salesforce. Desejo trabalhar num ambiente onde possa criar bons relacionamentos, ouvir atentamente às demandas e criar soluções realmente satisfatórias, sendo criativa e rápida no atendimento.
+Personalização de sites responsivos com design de alta qualidade, utilizando HTML, CSS, JavaScript e Bootstrap;
+Utilização de GitHub Actions para automatizar integração e entrega contínuas das minhas alterações de código; 
+Implantação dos sites no GitHub Pages, com domínios personalizados para os clientes;
+Além disso, programo em Apex e tenho experiência com SOQL, LWC, Visualforce e integração de APIs no contexto Salesforce.
 
-Você pode entrar em contato comigo através dos links nos meus sites ou pelo email cassiaqueiroz@gmail.com. Será um prazer conversar!
