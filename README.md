@@ -1,10 +1,11 @@
 ## Olá, aqui é a Cassia Queiroz! 👋🏻
 
 Sou desenvolvedora web freelance. Meus projetos têm recebido elogios contínuos. 
+Clique nos links abaixo para dar uma olhada!
 
 Atualmente, concluí dois sites:
 - [Meu site pessoal](https://devcassiaqueiroz.com.br) 
-- [Site da médica Larissa Borges](https://dralarissaborges.com.br) - Site da Dra. Larissa Borges
+- [Site da médica Larissa Borges](https://dralarissaborges.com.br)
 
 Tenho quatro projetos em andamento: 
 - [Site do médico Marcos Fernandes](https://drmarcosfernandes.com) 
