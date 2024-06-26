@@ -7,10 +7,10 @@ Atualmente, concluí dois sites:
 - [dralarissaborges](https://dralarissaborges.com.br) - Site da Dra. Larissa Borges
 
 Tenho quatro projetos em andamento: 
-- [drmarcosfernandes](https://drmarcosfernandes.com) - Site do Dr. Marcos Fernandes
-- [/vlaio/](https://cassiaqueiroz.github.io/vlaio/) - Site do artista Victor Laio
-- [/hatim-jaafar/](https://cassiaqueiroz.github.io/hatim-jaafar/) - Site do artista Hatim Jaafar
-- [ed-queiroz/](https://cassiaqueiroz.github.io/ed-queiroz/) - Site do jornalista Ed Queiroz
+- [Site do Dr. Marcos Fernandes](https://drmarcosfernandes.com) 
+- [Site do artista Victor Laio](https://cassiaqueiroz.github.io/vlaio/) 
+- [Site do artista Hatim Jaâfar](https://cassiaqueiroz.github.io/hatim-jaafar/) 
+- [Site do jornalista Ed Queiroz](https://cassiaqueiroz.github.io/ed-queiroz/) 
 
 Além disso, programo em Apex e tenho experiência com SOQL, LWC, Visualforce e integração de APIs no contexto Salesforce.
 
