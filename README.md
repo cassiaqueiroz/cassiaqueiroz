@@ -4,9 +4,10 @@ Sou desenvolvedora web freelancer e criadora de sites personalizados usando Boot
 
 Alguns dos meus projetos recentes incluem:
 
-devcassiaqueiroz.com.br - Meu portfólio pessoal
-dralarissaborges.com.br - Site da Dra. Alarissa Borges
-drmarcosfernandes.com.br - Site do Dr. Marcos Fernandes
+- [devcassiaqueiroz.com.br](https://devcassiaqueiroz.com.br) - Meu portfólio pessoal
+- [dralarissaborges.com.br](https://dralarissaborges.com.br) - Site da Dra. Alarissa Borges
+- [drmarcosfernandes.com.br](https://drmarcosfernandes.com.br) - Site do Dr. Marcos Fernandes
+
 Tenho experiência em:
 
 Criação de sites bonitos e fáceis de usar tanto no computador quanto no celular, utilizando HTML, CSS, JavaScript e Bootstrap
