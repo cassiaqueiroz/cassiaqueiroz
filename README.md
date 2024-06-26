@@ -3,11 +3,11 @@
 Sou desenvolvedora web freelance. Meus projetos têm recebido elogios contínuos. 
 
 Atualmente, concluí dois sites:
-- [devcassiaqueiroz](https://devcassiaqueiroz.com.br) - Meu site pessoal
-- [dralarissaborges](https://dralarissaborges.com.br) - Site da Dra. Larissa Borges
+- [Meu site pessoal](https://devcassiaqueiroz.com.br) 
+- [Site da médica Larissa Borges](https://dralarissaborges.com.br) - Site da Dra. Larissa Borges
 
 Tenho quatro projetos em andamento: 
-- [Site do Dr. Marcos Fernandes](https://drmarcosfernandes.com) 
+- [Site do médico Marcos Fernandes](https://drmarcosfernandes.com) 
 - [Site do artista Victor Laio](https://cassiaqueiroz.github.io/vlaio/) 
 - [Site do artista Hatim Jaâfar](https://cassiaqueiroz.github.io/hatim-jaafar/) 
 - [Site do jornalista Ed Queiroz](https://cassiaqueiroz.github.io/ed-queiroz/) 
