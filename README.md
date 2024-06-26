@@ -6,7 +6,7 @@ Alguns dos meus projetos recentes incluem:
 
 - [devcassiaqueiroz.com.br](https://devcassiaqueiroz.com.br) - Meu portfólio pessoal
 - [dralarissaborges.com.br](https://dralarissaborges.com.br) - Site da Dra. Alarissa Borges
-- [drmarcosfernandes.com.br](https://drmarcosfernandes.com.br) - Site do Dr. Marcos Fernandes
+- [drmarcosfernandes.com.br](https://drmarcosfernandes.com) - Site do Dr. Marcos Fernandes
 
 Tenho experiência em:
 
