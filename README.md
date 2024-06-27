@@ -1,22 +1,22 @@
-## Oi, Cassia Queiroz aqui! 👋🏻
+# Oi, Cassia Queiroz aqui! 👋🏻
 
 Sou desenvolvedora web e desenvolvedora Salesforce. Meus projetos têm recebido elogios contínuos pela qualidade que apresentam. 
 
 Clique nos links abaixo para dar uma olhada!
 
-# Projetos Concluídos
+## Projetos Concluídos
 
 - [Meu site pessoal](https://devcassiaqueiroz.com.br) 
 - [Site da médica Larissa Borges](https://dralarissaborges.com.br)
 
-# Projetos em Andamento
+## Projetos em Andamento
 
 - [Site do médico Marcos Fernandes](https://drmarcosfernandes.com) 
 - [Site do artista Victor Laio](https://cassiaqueiroz.github.io/vlaio/) 
 - [Site do artista Hatim Jaâfar](https://cassiaqueiroz.github.io/hatim-jaafar/) 
 - [Site do jornalista Ed Queiroz](https://cassiaqueiroz.github.io/ed-queiroz/) 
 
-# Experiência em Salesforce
+## Experiência em Salesforce
 - Apex 
 - SOQL
 - LWC
