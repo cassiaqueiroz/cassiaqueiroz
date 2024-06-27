@@ -21,5 +21,5 @@ Além disso, no contexto Salesforce, tenho experiência com:
 - Visualforce
 - Integração de APIs
 
-Como parte do projeto final de um bootcamp da SoulCode,desenvolvemos em equipe um site, adicionando configurações de "Web to Lead" e "Web to Case" aos códigos, a fim de capturar novos leads e casos de atendimento ao cliente de forma automatizada na plataforma Salesforce.
+Como parte do projeto final de um bootcamp da SoulCode, desenvolvemos em equipe um site, adicionando configurações que permitiram capturar novos leads e casos de atendimento ao cliente de forma automatizada.
 - [Site da empresa Fictícia "Meu Carrinho"](https://cassiaqueiroz.github.io/MeuCarrinho/cliente.html) 
