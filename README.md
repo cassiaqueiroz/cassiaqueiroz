@@ -24,4 +24,4 @@ Além disso, no contexto Salesforce, tenho experiência com:
 Desenvolvi junto com uma equipe de mais quatro pessoas, como parte do projeto final de um bootcamp da SoulCode, o site abaixo.
 
 Adicionamos as configurações de Web to Lead e Web to Case aos códigos, a fim de capturar novos leads e casos de atendimento ao cliente de forma automatizada na plataforma Salesforce.
-- [Site da empresa Fictícia "Meu Carrinho"]([https://cassiaqueiroz.github.io/ed-queiroz/](https://cassiaqueiroz.github.io/MeuCarrinho/cliente.html) 
+- [Site da empresa Fictícia "Meu Carrinho"](https://cassiaqueiroz.github.io/MeuCarrinho/cliente.html) 
