@@ -1,6 +1,6 @@
 # Oi, Cássia Queiroz aqui! 👋🏻
 
-Sou desenvolvedora web e desenvolvedora Salesforce. 
+Sou desenvolvedora Web e Salesforce. 
 Meus projetos têm recebido elogios contínuos pela qualidade que apresentam. 
 
 Clique nos links abaixo para dar uma olhada!
