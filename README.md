@@ -1,4 +1,4 @@
-## Olá, aqui é a Cassia Queiroz! 👋🏻
+## Oi, aqui é a Cassia Queiroz! 👋🏻
 
 Sou desenvolvedora web freelance. Meus projetos têm recebido elogios contínuos. 
 
