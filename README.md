@@ -15,7 +15,8 @@ Clique nos links abaixo para dar uma olhada!
 - [Site do médico Marcos Fernandes](https://drmarcosfernandes.com) 
 - [Site do artista Victor Laio](https://cassiaqueiroz.github.io/vlaio/) 
 - [Site do artista Hatim Jaâfar](https://cassiaqueiroz.github.io/hatim-jaafar/) 
-- [Site do jornalista Ed Queiroz](https://cassiaqueiroz.github.io/ed-queiroz/) 
+- [Site do jornalista Ed Queiroz](https://cassiaqueiroz.github.io/ed-queiroz/)
+- [Site da psicóloga Ana Carolina](https://cassiaqueiroz.github.io/ana-carolina/) 
 
 ## Experiência em Salesforce
 - Apex 
