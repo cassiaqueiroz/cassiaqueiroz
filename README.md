@@ -24,6 +24,6 @@ Clique nos links abaixo para dar uma olhada!
 - Visualforce
 - Integração de APIs
 
-Como parte do projeto final de um bootcamp da SoulCode, desenvolvemos em equipe um site que automatiza a captura de novos leads e casos de atendimento ao cliente.
+Como parte do projeto final de um bootcamp da SoulCode, desenvolvemos em equipe um site que automatiza a captura de novos leads e casos de atendimento ao cliente:
 
-- [Site da empresa Fictícia "Meu Carrinho"](https://cassiaqueiroz.github.io/MeuCarrinho/cliente.html)
+- [Site da empresa Fictícia "Meu Carrinho"](https://cassiaqueiroz.github.io/MeuCarrinho/)
