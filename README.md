@@ -15,7 +15,7 @@
 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-💡 Curiosidade: Apaixonada por música e bateria! 🥁
+🥁 Curiosidade: Apaixonada por música e bateria! 
 
 ---
 
