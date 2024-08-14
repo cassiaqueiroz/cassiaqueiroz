@@ -1,4 +1,4 @@
-<!-- Título e Saudação -->
+_<!-- Título e Saudação -->
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Oi, Cássia Queiroz aqui!</h3>
 
 <!-- Visualizações do Perfil -->
@@ -38,6 +38,7 @@
 
 <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz" alt="Cássia's Streak Stats" />
+  <br/> <!-- Linha em branco para espaçamento -->__
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiaqueiroz&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Cássia's language stats" height="192px" width="500px"/>
 </div>
 
@@ -47,3 +48,4 @@
   <summary><b>📈 GitHub Profile Stats</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cassiaqueiroz&show_icons=true" />
 </details>
+_
