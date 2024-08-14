@@ -20,7 +20,7 @@
 ---
 
 <!-- Seção de Projetos -->
-## ✅ Projetos Concluídos
+## 🏆 Projetos Concluídos
 - [Site da médica Larissa Borges](https://dralarissaborges.com.br)
 
 ## 🛠️ Projetos em Andamento
