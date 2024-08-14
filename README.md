@@ -40,6 +40,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz" alt="Cássia's Streak Stats" />
 </div>
 
+<br/>
+
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiaqueiroz&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Cássia's language stats" height="192px" width="500px"/>
 </div>
