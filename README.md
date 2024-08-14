@@ -13,8 +13,6 @@
 ---
 💻 Sou uma desenvolvedora Front-End que adora deixar os sites bem bonitos!
 
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-
 🥁 Curiosidade: Apaixonada por música e bateria! 
 
 ---
