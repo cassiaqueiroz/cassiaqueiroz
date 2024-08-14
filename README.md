@@ -34,7 +34,8 @@
 ---
 
 <!-- Estatísticas do GitHub -->
-## 📊 Minhas Estatísticas no GitHub <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="33px">
+## 📊 Minhas Estatísticas no GitHub 
+<br/>
 
 <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz" alt="Cássia's Streak Stats" />
@@ -50,5 +51,6 @@
 
 <details>
   <summary><b>📈 GitHub Profile Stats</b></summary>
+  <br/>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cassiaqueiroz&show_icons=true" />
 </details>
