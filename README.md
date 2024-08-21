@@ -37,19 +37,20 @@
 <br/>
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiaqueiroz&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Cássia's language stats" height="192px" width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiaqueiroz&langs_count=10&show_icons=true&locale=pt-br&layout=compact&theme=dark&title_color=8A2BE2&bg_color=151515&icon_color=FFFFFF&" alt="Estatísticas de linguagens da Cássia" height="192px" width="500px"/>
 </div>
 
 <br/>
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz" alt="Cássia's Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz&theme=dark&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="Estatísticas de Streak da Cássia" />
 </div>
 
 <br/> <!-- Linha em branco para espaçamento -->
 
 <details>
-  <summary><b>📈 GitHub Profile Stats</b></summary>
+  <summary><b style="color: #8A2BE2;">📈 Estatísticas do Perfil GitHub</b></summary>
   <br/>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cassiaqueiroz&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cassiaqueiroz&show_icons=true&theme=dark&title_color=8A2BE2" alt="Estatísticas do Perfil da Cássia"/>
 </details>
+
