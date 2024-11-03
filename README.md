@@ -5,7 +5,7 @@
 <h3 align="center"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" width="30px"> Oi, Cássia Queiroz aqui!</h3>
 
 <p align="center">
-  <a href="https://devcassiaqueiroz.com.br">Meu site pessoal</a> •
+  <a href="https://cassiaqueirozcodelab.com.br">Meu site pessoal</a> •
   <a href="https://www.linkedin.com/in/cassia-queiroz/">LinkedIn</a>
 </p>
 
