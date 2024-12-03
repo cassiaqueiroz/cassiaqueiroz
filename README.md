@@ -24,8 +24,6 @@
 ## 🛠️ Projetos em Andamento
 - [Site do médico Marcos Fernandes](https://drmarcosfernandes.com)
 - [Site da Clínica Santa Alice](https://cassiaqueiroz.github.io/clinica-santa-alice/)
-- [Site da psicóloga Ana Carolina](https://cassiaqueiroz.github.io/ana-carolina/) 
-- [Site do artista Victor Laio](https://cassiaqueiroz.github.io/vlaio/) 
 - [Site do artista Hatim Jaâfar](https://cassiaqueiroz.github.io/hatim-jaafar/) 
 - [Site do jornalista Ed Queiroz](https://cassiaqueiroz.github.io/ed-queiroz/)
 - [Site da médica Franciane Rossone](https://cassiaqueiroz.github.io/dra-franciane-rossone/)
