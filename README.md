@@ -39,7 +39,7 @@
   <details>
     <summary><b style="color: #a999e2;">💻 Estatísticas de Linguagens</b></summary>
     <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiaqueiroz&langs_count=10&show_icons=true&locale=pt-br&layout=compact&theme=highcontrast&title_color=a999e2" alt="Estatísticas de linguagens da Cássia" height="192px" width="500px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiaqueiroz&langs_count=10&show_icons=true&locale=pt-br&layout=compact&theme=light&title_color=a999e2" alt="Estatísticas de linguagens da Cássia" height="192px" width="500px"/>
   </details>
 </div>
 
