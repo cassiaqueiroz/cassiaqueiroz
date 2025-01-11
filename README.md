@@ -47,8 +47,8 @@
   <details>
     <summary><b style="color: #a999e2;">🔥 Estatísticas de Streak</b></summary>
     <br/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz&theme=light&title_color=8b53fe&currStreakLabel=a999e2" alt="Estatísticas de Streak da Cássia" />
-  </details>
+  ![Estatísticas de Streak da Cássia](https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz&theme=light&title_color=8b53fe&currStreakLabel=a999e2)
+
 </div>
 
 <div>
