@@ -37,8 +37,8 @@
 ### 💻 Estatísticas de Linguagens
 ![Estatísticas de linguagens da Cássia](https://github-readme-stats.vercel.app/api/top-langs?username=cassiaqueiroz&langs_count=10&show_icons=true&locale=pt-br&layout=compact&theme=light&title_color=8b53fe)
 
-### 🔥 Estatísticas de Streak
-![Estatísticas de Streak da Cássia](https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz&theme=light&title_color=8b53fe&currStreakLabel=a999e2)
+<!-- ### 🔥 Estatísticas de Streak
+![Estatísticas de Streak da Cássia](https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz&theme=light&title_color=8b53fe&currStreakLabel=a999e2) -->
 
 ### 📈 Estatísticas do Perfil GitHub
 ![Estatísticas do Perfil da Cássia](https://github-readme-stats.anuraghazra1.vercel.app/api?username=cassiaqueiroz&show_icons=true&theme=light&title_color=8b53fe)
