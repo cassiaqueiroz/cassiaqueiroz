@@ -11,7 +11,7 @@
 
 <!-- Sobre Mim -->
 ---
-💻 Sou uma desenvolvedora Front-End que adora deixar os sites bem bonitos!
+💻 Sou uma desenvolvedora Front-End que adora deixar os sites com um design interessante!
 
 🥁 Curiosidade: Apaixonada por música e bateria! 
 
@@ -34,26 +34,11 @@
 ## 📊 Minhas Estatísticas no GitHub 
 <br/>
 
-<div>
-  <details>
-    <summary><b style="color: #a999e2;">💻 Estatísticas de Linguagens</b></summary>
-    <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiaqueiroz&langs_count=10&show_icons=true&locale=pt-br&layout=compact&theme=light&title_color=8b53fe" alt="Estatísticas de linguagens da Cássia" height="192px" width="500px"/>
-  </details>
-</div>
+### 💻 Estatísticas de Linguagens
+![Estatísticas de linguagens da Cássia](https://github-readme-stats.vercel.app/api/top-langs?username=cassiaqueiroz&langs_count=10&show_icons=true&locale=pt-br&layout=compact&theme=light&title_color=8b53fe)
 
-<div>
-  <details>
-    <summary><b style="color: #a999e2;">🔥 Estatísticas de Streak</b></summary>
-    <br/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz&theme=light&title_color=8b53fe&currStreakLabel=a999e2" alt="Estatísticas de Streak da Cássia"/>
-  </details>
-</div>
+### 🔥 Estatísticas de Streak
+![Estatísticas de Streak da Cássia](https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz&theme=light&title_color=8b53fe&currStreakLabel=a999e2)
 
-<div>
-  <details>
-    <summary><b style="color: #a999e2;">📈 Estatísticas do Perfil GitHub</b></summary>
-    <br/>
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cassiaqueiroz&show_icons=true&theme=light&title_color=8b53fe" alt="Estatísticas do Perfil da Cássia"/>
-  </details>
-</div>
+### 📈 Estatísticas do Perfil GitHub
+![Estatísticas do Perfil da Cássia](https://github-readme-stats.anuraghazra1.vercel.app/api?username=cassiaqueiroz&show_icons=true&theme=light&title_color=8b53fe)
