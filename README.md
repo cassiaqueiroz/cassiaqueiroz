@@ -28,7 +28,6 @@
 - [Site do jornalista Ed Queiroz](https://ed-blog-gamma.vercel.app/)
 - [Site da médica Franciane Rossone](https://cassiaqueiroz.github.io/dra-franciane-rossone/)
 
-
 ---
 
 <!-- Estatísticas do GitHub -->
@@ -47,8 +46,8 @@
   <details>
     <summary><b style="color: #a999e2;">🔥 Estatísticas de Streak</b></summary>
     <br/>
-  ![Estatísticas de Streak da Cássia](https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz&theme=light&title_color=8b53fe&currStreakLabel=a999e2)
-
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz&theme=light&title_color=8b53fe&currStreakLabel=a999e2" alt="Estatísticas de Streak da Cássia"/>
+  </details>
 </div>
 
 <div>
@@ -58,5 +57,3 @@
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cassiaqueiroz&show_icons=true&theme=light&title_color=8b53fe" alt="Estatísticas do Perfil da Cássia"/>
   </details>
 </div>
-
-
