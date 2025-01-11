@@ -39,7 +39,7 @@
   <details>
     <summary><b style="color: #a999e2;">💻 Estatísticas de Linguagens</b></summary>
     <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiaqueiroz&langs_count=10&show_icons=true&locale=pt-br&layout=compact&theme=light&title_color=a999e2" alt="Estatísticas de linguagens da Cássia" height="192px" width="500px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassiaqueiroz&langs_count=10&show_icons=true&locale=pt-br&layout=compact&theme=light&title_color=8b53fea6" alt="Estatísticas de linguagens da Cássia" height="192px" width="500px"/>
   </details>
 </div>
 
@@ -47,7 +47,7 @@
   <details>
     <summary><b style="color: #a999e2;">🔥 Estatísticas de Streak</b></summary>
     <br/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz&theme=highcontrast&ring=a999e2&currStreakLabel=a999e2" alt="Estatísticas de Streak da Cássia" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassiaqueiroz&theme=light&title_color=8b53fea6&currStreakLabel=a999e2" alt="Estatísticas de Streak da Cássia" />
   </details>
 </div>
 
@@ -55,7 +55,7 @@
   <details>
     <summary><b style="color: #a999e2;">📈 Estatísticas do Perfil GitHub</b></summary>
     <br/>
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cassiaqueiroz&show_icons=true&theme=highcontrast&title_color=a999e2" alt="Estatísticas do Perfil da Cássia"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=cassiaqueiroz&show_icons=true&theme=light&title_color=8b53fea6" alt="Estatísticas do Perfil da Cássia"/>
   </details>
 </div>
 
