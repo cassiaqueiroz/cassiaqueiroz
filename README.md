@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cassiaqueiroz&label=Profile%20views&color=a999e2&style=flat" alt="cassiaqueiroz" /> </p>
 
 <!-- Título e Saudação -->
-<h3 align="center"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" width="30px"> Oi, Cássia Queiroz aqui!</h3>
+<h3 align="center"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b-1f3fb.gif" width="30px"> Oi, pessoal!</h3>
 
 <p align="center">
   <a href="https://cassiaqueirozcodelab.com.br">Meu site</a> •
