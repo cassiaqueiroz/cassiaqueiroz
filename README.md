@@ -21,12 +21,12 @@
 ## 🏆 Projetos Concluídos
 - [Site da médica Larissa Borges](https://dralarissaborges.com.br)
 - [Site da Clínica Santa Alice](https://cassiaqueiroz.github.io/clinica-santa-alice/)
+- [Site da Revolução Psique](https://cassiaqueiroz.github.io/modelo/)
 
 ## 🛠️ Projetos em Andamento
 - [Site do médico Marcos Fernandes](https://drmarcosfernandes.com)
 - [Site do artista Hatim Jaâfar](https://e-commerce-done-delta.vercel.app/) 
 - [Site da médica Franciane Rossone](https://cassiaqueiroz.github.io/dra-franciane-rossone/)
-- [Site da Revolução Psique](https://cassiaqueiroz.github.io/modelo/)
 
 ---
 
