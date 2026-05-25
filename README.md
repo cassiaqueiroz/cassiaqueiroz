@@ -35,6 +35,7 @@
 - [Website for Revolução Psique](https://cassiaqueiroz.github.io/modelo/)
 - [Website for Clínica Phyo](https://clinica-phyo.vercel.app/)
 - [Website for Adv. Grasiela Fernandes](https://grasiela-fernandes-adv.vercel.app)
+- [Landing Page - MateAcademy Course Project](https://cassiaqueiroz.github.io/layout_landing-page/)
 
 
 ## 🛠️ Ongoing Projects
